@@ -17,24 +17,24 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Graduate programme in Mathematical Economics"
+  institution = "National Research University Higher School of Economics"
+  year = 2018
+
+[[education.courses]]
+  course = "MA in Economics"
+  institution = "National Research University Higher School of Economics"
+  year = 2014
+
+[[education.courses]]
+  course = "BA in Economics"
+  institution = "National Research University Higher School of Economics"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lena Smith is a senior lecturer of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Valeriya Lakshina holds a MA in Economics from the National Research University Higher School of Economics, Russia. Since 2012 she works as an assistant and since 2015 as senior lecturer on Mathematical Economics Department at the National Research University Higher School of Economics. Her research interests lie primarily in the areas of volatility modeling and applied econometric analysis. She participated in a number of conferences as presenter and committee member. Her track record includes articles on applied financial econometrics, published in Russian and international journals.
