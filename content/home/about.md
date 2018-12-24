@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Valeriya Lakshina holds a MA in Economics from the National Research University Higher School of Economics, Russia. Since 2012 she works as an assistant and since 2015 as senior lecturer on Mathematical Economics Department at the National Research University Higher School of Economics. Her research interests lie primarily in the areas of volatility modeling and applied econometric analysis. 
+Valeriya Lakshina holds a MA in Economics from the National Research University Higher School of Economics, Russia. Since 2012 she works as an assistant and since 2015 as senior lecturer on Mathematical Economics Department at the National Research University Higher School of Economics. Her research interests lie primarily in the areas of volatility modeling and applied econometric analysis. The latter inclides ecological economics and public health subjects.
