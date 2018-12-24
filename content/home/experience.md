@@ -46,7 +46,7 @@ date_format = "January 2006"
   date_end = "2013-08-31"
   description = """Taught Microeconomics I."""
   
-[comment]: <> (Perhaps, I should add Sberbank internship.)
+# (Perhaps, I should add Sberbank internship.)
    
 [[experience]]
   title = "Research Assistant"
