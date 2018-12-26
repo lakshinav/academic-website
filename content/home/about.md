@@ -26,10 +26,10 @@ weight = 5
   institution = "National Research University Higher School of Economics"
   year = 2014
 
-[[education.courses]]
-  course = "BA in Economics"
-  institution = "National Research University Higher School of Economics"
-  year = 2012
+#[[education.courses]]
+#  course = "BA in Economics"
+#  institution = "National Research University Higher School of Economics"
+#  year = 2012
  
 +++
 
