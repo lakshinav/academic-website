@@ -48,17 +48,29 @@ filter_default = 0
 #   name = "Other"
 #   tag = "Demo"
 
- [[filter]]
-   name = "Ecological and economic modeling the impact of changing the environment on the population life quality"
-   tag = "ecology"
+ #[[filter]]
+  # name = "Ecological and economic modeling the impact of changing the environment on the population life quality"
+  # tag = "ecology"
    
- [[filter]]
-   name = "Modeling spillovers with spatial effects on oil and gas market"
-   tag = "spatial"
+# [[filter]]
+#   name = "Modeling spillovers with spatial effects on oil and gas market"
+#   tag = "spatial"
    
+# [[filter]]
+#   name = "Factors and evaluation of trade credit dynamics"
+#   tag = "trade credit"  
+
+[[filter]]
+  name = "All"
+  tag = "*"
+
  [[filter]]
-   name = "Factors and evaluation of trade credit dynamics"
-   tag = "trade credit"  
+ name = "Ecology"
+ tag = "ecology"
+ 
+ [[filter]]
+ name = "Finance"
+ tag = "finance"
 
 +++
 
