@@ -33,11 +33,11 @@ weight = 7
   name = "Python"
   description = "40%"
   
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "15%"
+#[[feature]]
+ # icon = "database"
+  #icon_pack = "fas"
+  #name = "SQL"
+  #description = "15%"
   
 [[feature]]
   icon = "chart-line"
