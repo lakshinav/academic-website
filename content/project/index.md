@@ -16,7 +16,7 @@ The purpose of the study is to analyze influence of environmental factors on hea
 The study used methods of econometric analysis, including panel regression with fixed and random effects, as well as Wooldridge tests for the unobserved effects and Darbin-Woo-Hausman for the regressions’ diagnostics. Calculations were carried out on the basis of the data of the Nizhny Novgorod Statistics Service and Ministry of Health of the Russian Federation.
 
 Results of the model estimation suggest a statistically significant effect of the considered factors on the level of the pediatric incidence rate. Factors that have a significant impact on health of the younger generation include availability of pediatricians and district doctors providing outpatient primary health care to children aged 0-14; current expenditures on environmental protection; proportion of unpurified emissions in the total amount of pollutants discarded from the stationary sources; emissions of pollutants into atmosphere from the stationary sources; number of water samples analyzed according to sanitary-chemical indicators taken from sources of the centralized water supply with a breakdown on districts, that do not meet the sanitary standards. The obtained econometric model can be used to predict pediatric incidence in relation to environmental factors to develop programs aimed at improving quality of life of the younger generation.
-
+\\
 This research is supported by the Russian Fund for Basic Research, grant number 18-010-00632.
 """
 
@@ -25,7 +25,8 @@ This research is supported by the Russian Fund for Basic Research, grant number 
 tags = ["Ecology"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+# external_link = "http://example.org"
+# todo: add link to kias report web page
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
