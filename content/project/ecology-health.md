@@ -2,7 +2,7 @@
 # Project title.
 title = "RFBR 18-010-00632{{< figure library="1" src="flag_ru[1].png" title="A caption" >}}"
 
-#![Russian-lang](static/img/flag_ru[1].png)"
+# ![Russian-lang](static/img/flag_ru[1].png)"
 
 # Date this page was created.
 date = 2018-12-26T00:00:00
