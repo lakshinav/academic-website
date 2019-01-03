@@ -1,8 +1,12 @@
 +++
 # Project title.
-title = "RFBR 18-010-00632{{< figure library="1" src="flag_ru[1].png" title="A caption" >}}"
+title = "RFBR 18-010-00632" ![Russian-lang](academic-website/static/img/flag_ru[1].png)
 
-# ![Russian-lang](static/img/flag_ru[1].png)"
+{{< figure library="1" src="flag_ru[1].png" title="A caption" >}}
+
+
+{{< figure src="/academic-website/static/img/flag_ru[1].png" title="Steve Francia" >}}
+
 
 # Date this page was created.
 date = 2018-12-26T00:00:00
@@ -33,6 +37,12 @@ share = true  # Show social sharing links?
 profile = true  # Show author profile?
 comments = true  # Show comments?
 +++
+![Russian-lang](academic-website/static/img/flag_ru[1].png)
+
+{{< figure library="1" src="flag_ru[1].png" title="A caption" >}}
+
+{{< figure src="/academic-website/static/img/flag_ru[1].png" title="Steve Francia" >}}
+
 
 ## Abstract
 The purpose of the study is to analyze influence of environmental factors on health of children aged 0 to 14 years exemplified by the Nizhny Novgorod region. The object of modeling was incidence rate in children aged 0 to 14 in 50 municipalities of the Nizhny Novgorod region in 2000-2016.
