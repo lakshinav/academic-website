@@ -7,5 +7,6 @@ abstract = ""
 selected = false
 publication = "*Finance: Theory and Practice*"
 url_pdf = "https://financetp.fa.ru/jour/article/view/292/219"
+tags=["russian", "finance"]
 +++
 
