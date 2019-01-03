@@ -7,5 +7,6 @@ abstract = "The paper proposes the thorough investigation of in-sample and out-o
 selected = false
 publication = "*Economics Bulletin*"
 url_pdf = "http://www.accessecon.com/Pubs/EB/2016/Volume36/EB-16-V36-I4-P229.pdf"
+tags=["finance"]
 +++
 
