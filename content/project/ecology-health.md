@@ -14,8 +14,7 @@ tags = ["ecology"]
 
 
 # Optional external URL for project (replaces project detail page).
-# external_link = "http://example.org"
-# todo: add link to kias report web page
+external_link = "http://www.rfbr.ru/rffi/portal/project_search/o_2073158"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
