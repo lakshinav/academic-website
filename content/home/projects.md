@@ -71,6 +71,10 @@ filter_default = 0
  [[filter]]
  name = "Finance"
  tag = "finance"
+ 
+  [[filter]]
+ name = "In Russian"
+ tag = "russian"
 
 +++
 
