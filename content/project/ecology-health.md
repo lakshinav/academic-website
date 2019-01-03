@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "RFBR 18-010-00632![Russian-lang](/img/image.jpg)"
+title = "RFBR 18-010-00632![Russian-lang](/img/flag_ru[1].png)"
 
 # Date this page was created.
 date = 2018-12-26T00:00:00
