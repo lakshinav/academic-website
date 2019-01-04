@@ -2,13 +2,6 @@
 # Project title.
 title = "RFBR 18-010-00632"
 
-# ![Russian-lang](academic-website/static/img/flag_ru[1].png)"
-
-# {{< figure library="1" src="flag_ru[1].png" title="A caption" >}}
-
-# {{< figure src="/academic-website/static/img/flag_ru[1].png" title="Steve Francia" >}}
-
-
 # Date this page was created.
 date = 2018-12-26T00:00:00
 
@@ -17,7 +10,7 @@ summary = "Ecological and economic modeling the impact of changing the environme
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ecology"]
+tags = ["ecology", "russian"]
 
 
 # Optional external URL for project (replaces project detail page).
@@ -26,7 +19,6 @@ external_link = "http://www.rfbr.ru/rffi/portal/project_search/o_2073158"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 # [image]
-[featured.png]
   # Caption (optional)
   caption = "Photo by Toa Heftiba on Unsplash"
 
@@ -39,12 +31,6 @@ share = true  # Show social sharing links?
 profile = true  # Show author profile?
 comments = true  # Show comments?
 +++
-![Russian-lang](academic-website/static/img/flag_ru[1].png)
-
-{{< figure library="1" src="flag_ru[1].png" title="A caption" >}}
-
-{{< figure src="/academic-website/static/img/flag_ru[1].png" title="Steve Francia" >}}
-
 
 ## Abstract
 The purpose of the study is to analyze influence of environmental factors on health of children aged 0 to 14 years exemplified by the Nizhny Novgorod region. The object of modeling was incidence rate in children aged 0 to 14 in 50 municipalities of the Nizhny Novgorod region in 2000-2016.
