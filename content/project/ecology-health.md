@@ -6,7 +6,7 @@ title = "RFBR 18-010-00632"
 date = 2018-12-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "[Ecological and economic modeling the impact of changing the environment on the population life quality]({{< ref "project/ecology-health/index.md" >}})"
+summary = "Ecological and economic modeling the impact of changing the environment on the population life quality"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -15,6 +15,7 @@ tags = ["ecology", "russian"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://www.rfbr.ru/rffi/portal/project_search/o_2073158"
+internal_link = "project/ecology-health/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
