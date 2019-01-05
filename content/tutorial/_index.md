@@ -21,5 +21,6 @@ type = "docs"  # Do not modify.
 * Базовая система графики в R
 * Регулярные выражения
 * Базовые понятия статистики
+* Tidyverse
 
 [ggplot test](Exercises.html)
