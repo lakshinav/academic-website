@@ -22,4 +22,4 @@ type = "docs"  # Do not modify.
 * Регулярные выражения
 * Базовые понятия статистики
 
-[ggplot test](Rgraphics_my/)
+[ggplot test](Exercises.html)
