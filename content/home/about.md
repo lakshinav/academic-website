@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Financial econometrics",
     "Multivariate volatility",
-    "Stochastic volatility"
+    "Stochastic volatility",
+    "Ecological economics"
   ]
 
 # List your qualifications (such as academic degrees).
