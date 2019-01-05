@@ -6,7 +6,7 @@ title = "RFBR 18-010-00632"
 date = 2018-12-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "Ecological and economic modeling the impact of changing the environment on the population life quality"
+summary = "[Ecological and economic modeling the impact of changing the environment on the population life quality]({{< ref "project/ecology-health/index.md" >}})"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
