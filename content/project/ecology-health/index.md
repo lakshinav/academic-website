@@ -18,7 +18,7 @@ external_link = "http://www.rfbr.ru/rffi/portal/project_search/o_2073158"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[tree-42476_960_720[1].png]
+[image]
   # Caption (optional)
   caption = "Photo by Toa Heftiba on Unsplash"
 
