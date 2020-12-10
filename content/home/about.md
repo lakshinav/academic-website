@@ -27,10 +27,10 @@ weight = 5
   institution = "National Research University Higher School of Economics"
   year = 2018
 
-[[education.courses]]
-  course = "MA in Economics"
-  institution = "National Research University Higher School of Economics"
-  year = 2014
+#[[education.courses]]
+#  course = "MA in Economics"
+#  institution = "National Research University Higher School of Economics"
+#  year = 2014
 
 #[[education.courses]]
 #  course = "BA in Economics"
@@ -41,4 +41,4 @@ weight = 5
 
 # Biography
 
-Valeriya Lakshina holds a MA in Economics from the National Research University Higher School of Economics, Russia. Since 2012 she works as an assistant and since 2015 as senior lecturer on Mathematical Economics Department at the National Research University Higher School of Economics. Her research interests lie primarily in the areas of volatility modeling and applied econometric analysis. The latter inclides ecological economics and public health subjects.
+Valeriya Lakshina holds a PhD in Economics from the National Research University Higher School of Economics, Russia. Since 2020 she works as an Assistant Professor on Mathematical Economics Department at the National Research University Higher School of Economics. Her research interests lie primarily in the areas of volatility modeling and applied econometric analysis. The latter inclides ecological economics and public health subjects.
