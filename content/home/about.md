@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "[PhD](https://www.hse.ru/sci/diss/266443004) in Mathematical Economics"
+  course = "PhD in Mathematical Economics"
   institution = "National Research University Higher School of Economics"
   year = 2019
 
